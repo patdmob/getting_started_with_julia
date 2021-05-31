@@ -6,9 +6,9 @@ That being said, I assume you have already installed julia and the VS Code julia
 
 ## Creating an New Project
 
-1. `shift+cmd+p` and typing `Julia: Start REPL`
-2.  `]` to enter package mode, and `activate .` to activate a new environment
-3.  `add DataFrames Query VegaLite VegaDatasets` to add project libraries
+1. Within VS Code, pressing `shift+cmd+p` (`control+shift+p` on Windows) will open the command palette; after which type `Julia: Start REPL` to start a julia terminal
+2. Within the REPL type `]` to enter package mode, and `activate .` to activate a new environment
+3.  Type `add DataFrames Query VegaLite VegaDatasets` to add the desired project libraries
     - Notice there are now a *Project.toml* and *Manifest.toml* files in your directory which describe your requirements and dependencies respectively for this project
     - If you are working in a previously created project, you can call `instantiate` (which will use the existing *Project.toml* and *Manifest.toml* files) instead of `add DataFrames ...`. 
 4. Now click on the `Julia env: v1.x` button in the status bar and select this directory as the environment. Your environment should update your directory's name: `Julia env: <your_dir_name>`.
