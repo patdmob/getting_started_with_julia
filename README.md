@@ -1,6 +1,6 @@
 # How to Start a New Project with Julia using VS Code
 
-This project was just first attempt creating a Julia Project. Workflow is super important to me so that is generally the first thing I try to understand when learning a new language. I found the [video](https://www.youtube.com/watch?v=IdhnP00Y1Ks&ab_channel=TheJuliaProgrammingLanguage) by David Anthoff and decided to follow along and take notes along the way. This repository is the result. If you watch the video, he assumes you already have some familiarity with VS Code by glossing over certain keyboard shortcuts. I try my best to explicitly explain the steps below. 
+This project was just first attempt creating a Julia Project. Workflow is super important to me so I generally try to understand that first when learning a new language. I found the [video](https://www.youtube.com/watch?v=IdhnP00Y1Ks&ab_channel=TheJuliaProgrammingLanguage) by David Anthoff and decided to follow along and take notes along the way. This repository is the result. If you watch the video, he assumes you already have some familiarity with VS Code and glosses over certain keyboard shortcuts. I try my best to explicitly explain the steps below. 
 
 That being said, I assume you have already installed julia and the VS Code julia language extension. I also noticed that not all of the features worked for me as I followed along. I can only assume that there were some breaking changes in either the language, extension, or VS Code.
 
