@@ -17,7 +17,7 @@ That being said, I assume you have already installed julia and the VS Code julia
 
 ### Things to Know
 
-1. To executed code interactively from the file into the terminal, use `Control+Enter`. This is different than in Python where users press `Shift+Enter`.
+1. To executed code interactively from the file into the terminal, use `control+enter`. This is different than in Python where users press `shift+enter`.
 2. To restart the terminal, you can close the existing terminal by selecting the trash can or by `shift+cmd+p` and typing `Julia: Stop REPL` before creating a new one by `shift+cmd+p` and typing `Julia: Start REPL`. I did not find an easy way to restart the session. 
 3. Devcontainers are a great way to create an isolated environment. All you need is a `.devcontainer` folder with a `devcontainer.json` file. In this case we had the following simple code to direct the creation of a dev docker container:
 
