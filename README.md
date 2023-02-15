@@ -1,4 +1,4 @@
-# My First Julia Project
+# Getting started with Julia in VS Code
 
 This project was just first attempt creating a Julia Project using VS Code. Workflow is super important to me so I generally try to understand that first when learning a new language. I found the [video](https://www.youtube.com/watch?v=IdhnP00Y1Ks&ab_channel=TheJuliaProgrammingLanguage) by David Anthoff and decided to follow along and take notes along the way. [This repository](https://github.com/patdmob/my_first_julia_project/) is the result. If you watch the video, he assumes you already have some familiarity with VS Code and glosses over certain keyboard shortcuts. I try my best to explicitly explain the steps below. 
 
